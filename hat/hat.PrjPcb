@@ -88,6 +88,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AARUAQAY
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for hat\Design Rule Check - hat.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -246,7 +250,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother DCP-J4120DW Printer
+TargetPrinter=OneNote (Desktop)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
